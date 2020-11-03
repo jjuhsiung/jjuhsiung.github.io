@@ -23,4 +23,4 @@ twitter_url: https://twitter.com/andrewbanchich
 
 # Build settings
 markdown: kramdown
-theme: lens-jekyll-theme
+# theme: lens-jekyll-theme
